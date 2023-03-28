@@ -9,7 +9,7 @@ const CategoryItem = ({category}) => {
       } />
       <div className="category-body-container">
         <h2>{title}</h2>
-        <p>shop Now</p>
+        <p>Shop Right Now</p>
       </div>
     </div>
   )
